@@ -1,1 +1,3 @@
-title: "System-level performance profiling workflow for PyTorch training: Intel VTune Profiler on Intel Data Center GPU Max, and NVIDIA Nsight Systems on NVIDIA Grace Hopper"
+title: "System-level performance profiling workflow for PyTorch training"
+description: "Intel VTune Profiler on Intel Data Center GPU Max, and NVIDIA Nsight Systems on NVIDIA Grace Hopper"
+theme: minima
