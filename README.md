@@ -1,2 +1,3 @@
 # System level performance profiling workflow
-Comparison of Performance profiling workflow on system level for  Intel® VTune™ Profiler and NVIDIA Nsight™ Systems using CosmicTagger* (Cosmic Tagging Network for Neutrino Physics) project as an example.
+
+System-level performance profiling workflow for PyTorch training: Intel VTune Profiler on Intel Data Center GPU Max, and NVIDIA Nsight Systems on NVIDIA Grace Hopper
