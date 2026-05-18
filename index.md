@@ -1,9 +1,8 @@
 ---
-title: "System-level performance profiling workflow for PyTorch training: Intel VTune Profiler on Intel Data Center GPU Max, and NVIDIA Nsight Systems on NVIDIA Grace Hopper"
 layout: default
 ---
 
-*By Vladimir Tsymbal • [vladimir.tsymbal@intel.com](mailto:vladimir.tsymbal@intel.com)*
+*By Vladimir Tsymbal • [vladimir.tsymbal@intel.com](mailto:vladimir.tsymbal@intell.com)*
 
 ---
 
