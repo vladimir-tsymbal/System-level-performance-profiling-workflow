@@ -3,7 +3,9 @@ title: "System-level performance profiling workflow for PyTorch training: Intel 
 layout: default
 ---
 
-Vladimir Tsymbal (vladimir.tsymbal@intel.com)
+*By Vladimir Tsymbal • [vladimir.tsymbal@email.com](mailto:vladimir.tsymbal@email.com)*
+
+---
 
 ## Disclaimer (personal content)
 
